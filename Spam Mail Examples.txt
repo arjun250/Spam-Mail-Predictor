@@ -1,0 +1,19 @@
+Spam Examples (Expected Output: "Spam")
+1️⃣ "Congratulations! You have won a $1,000,000 lottery! Click here to claim your prize."
+2️⃣ "URGENT! Your bank account has been compromised. Verify your details immediately."
+3️⃣ "Get a free iPhone now! Limited stock available. Click the link below."
+4️⃣ "Earn $5,000 per week working from home! Sign up today!"
+5️⃣ "Dear User, your Netflix subscription is expired. Update your payment details here: [fake link]"
+6️⃣ "Limited time offer! Buy 1 get 2 free. Click here for this exclusive deal!"
+7️⃣ "Your PayPal account has been suspended. Log in now to restore access."
+8️⃣ "You have an unclaimed Amazon gift card. Redeem now!"
+
+🔹 Not Spam Examples (Expected Output: "Not Spam")
+1️⃣ "Hey John, are we still meeting for lunch tomorrow at 1 PM?"
+2️⃣ "Dear Customer, your order #12345 has been shipped and will arrive soon."
+3️⃣ "Reminder: Your doctor's appointment is scheduled for Friday at 10 AM."
+4️⃣ "Can you please review the attached report and share your feedback?"
+5️⃣ "Hello team, please find the meeting agenda for tomorrow attached."
+6️⃣ "Mom, I reached home safely. Talk to you later!"
+7️⃣ "Reminder: Your subscription will expire in 7 days. Visit our website to renew."
+8️⃣ "Thank you for your payment. Your receipt is attached."
