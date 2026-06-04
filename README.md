@@ -155,7 +155,13 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-![UI](Screenshot(333).png).
+### Prediction Result - Spam Email
+
+![Prediction Result - Spam Email](Screenshot%20(333).png)
+
+### Prediction Result - Not Spam Email
+
+![Prediction Result - Not Spam Email](Screenshot%20(334).png)
 
 ---
 
